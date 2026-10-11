@@ -1,6 +1,6 @@
 /* ================================================================
    NovaStore E-Ticaret Veri Yönetim Sistemi
-   Hazırlayan : Ad Soyad            -- TODO: adını yaz, dosya adını da değiştir
+   Hazırlayan : Doğan Can Karataş
    Ortam      : Microsoft SQL Server (T-SQL)
    ================================================================ */
 
