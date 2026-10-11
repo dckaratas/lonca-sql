@@ -16,5 +16,5 @@ Bu klasörde iki ayrı SQL Server betiği var:
 ## NovaStore teslim kontrol listesi
 
 - [x] `DoganCanKaratas_NovaStore_Proje.sql`: tüm adımlar, yorum satırlarıyla
-- [ ] `DoganCanKaratas_NovaStore_Proje.docx`: kodlar (kod kutusu), sorgu sonuçlarının ekran görüntüleri ve açıklamalar
-- [ ] `DoganCanKaratas_NovaStore_Proje.png`: SSMS → Database Diagrams ile tablo ilişkilerinin tek ekran görüntüsü
+- [x] `DoganCanKaratas_NovaStore_Proje.docx`: kodlar (kod kutusu), sorgu sonuçlarının ekran görüntüleri ve açıklamalar
+- [x] `DoganCanKaratas_NovaStore_Proje.png`: tablo ilişkilerinin tek görselde diyagramı
